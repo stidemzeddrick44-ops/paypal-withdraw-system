@@ -1,7 +1,9 @@
 STEP 1: Create GitHub Repository
 Go to https://github.com/new
-Enter repository name: paypal-withdraw-system
-Description: PayPal withdrawal system with Node.js and React
+Enter repository name: stidemzeddrick44-ops/-
+paypal-withdraw-system
+Description: stidemzeddrick44-ops/-
+PayPal withdrawal system with Node.js and React
 Choose Public or Private
 Click "Create repository"
 STEP 2: Set Up Local Project

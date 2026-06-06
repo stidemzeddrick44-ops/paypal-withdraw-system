@@ -1,7 +1,4 @@
-# paypal-withdraw-system
-paypal-withdraw-system
-GitHub Copilot
-Perfect! Let me help you set up the GitHub repository and get it running.
+
 STEP 1: Create GitHub Repository
 Go to https://github.com/new
 Enter repository name: paypal-withdraw-system
